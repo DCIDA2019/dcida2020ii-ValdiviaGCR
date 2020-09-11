@@ -1,0 +1,10 @@
+
+VAMOS A REALIZAR UN ANALISIS DESCRIPTIVO DE LOS DATOS QUE MUESTRAN LA TASA DE MORTALIDAD POR CADA 100MIL HABITANTES EN EL MUNDO.
+MISMO ANALISIS PARA EL NIVEL DE OCUPACIÓN DE CAMAS EN HOSPITALES.
+MISMO ANALISIS PARA TASA DE OBESIDAD EN LOS PAISES.
+PARA CADA UNO DE LOS SIGUIENTES VEMOS A RESOLVER LAS PREGUNTAS SIGUIENTES.
+
+
+PREGUNTAS PROPUESTAS:
+-¿Cuáles son los países con mayor death rate?-mayor obesidad-mayor saturación de camas
+-Histograma de x:death rate y:Obesidad -promedio de obesidad de todos los paises con deathrate 1 en la primera barra-promedio de obesidad de todos los paises con DR 2 en la segunda barra-¿cual es el promedio de obesidad dependiendo de la taza de muertes?-¿cuál es el porcentaje de países cuya obesidad es mayor a tanto porciento?
