@@ -1,161 +1,198 @@
-,País,VIH/SIDA - habitantes infectados con VIH/SIDA,Año
-0,Sudáfrica,7700000,2018
-1,Mozambique,2200000,2018
-2,India,2100000,2017
-3,Nigeria,1900000,2018
-4,Kenia,1600000,2018
-5,Tanzania,1600000,2018
-6,Uganda,1400000,2018
-7,Zimbabue,1300000,2018
-8,Zambia,1200000,2018
-9,Malaui,1000000,2018
-10,Rusia,1000000,2017
-11,Brasil,900000,2018
-12,Etiopía,690000,2018
-13,Indonesia,640000,2018
-14,Camerún,540000,2018
-15,Tailandia,480000,2018
-16,Costa de Marfil,460000,2018
-17,República Democrática del Congo,450000,2018
-18,Botsuana,370000,2018
-19,Lesoto,340000,2018
-20,Angola,330000,2018
-21,Ghana,330000,2018
-22,Birmania; Myanmar,240000,2018
-23,Ucrania,240000,2018
-24,Vietnam,230000,2018
-25,México,230000,2018
-26,Ruanda,220000,2018
-27,Suazilandia,210000,2018
-28,Namibia,200000,2018
-29,Francia,180000,2018
-30,Haití,160000,2018
-31,Colombia,160000,2018
-32,Pakistán,160000,2018
-33,España,150000,2018
-34,Malí,150000,2018
-35,Argentina,140000,2018
-36,Italia,130000,2018
-37,Chad,120000,2018
-38,Guinea,120000,2018
-39,Venezuela,120000,2018
-40,República Centroafricana,110000,2018
-41,Togo,110000,2018
-42,Burkina Faso,96000,2018
-43,Congo,89000,2018
-44,Alemania,87000,2018
-45,Malasia,87000,2018
-46,Burundi,82000,2018
-47,Perú,79000,2018
-48,Filipinas,77000,2018
-49,Camboya,73000,2018
-50,Benín,73000,2018
-51,Chile,71000,2018
-52,República Dominicana,70000,2018
-53,Sierra Leona,70000,2018
-54,Guinea Ecuatorial,62000,2018
-55,Irán,61000,2018
-56,Sudán,59000,2018
-57,Gabón,53000,2018
-58,Uzbekistán,52000,2018
-59,Guatemala,47000,2018
-60,Papúa-Nueva Guinea,45000,2018
-61,Guinea-Bissau,44000,2018
-62,Ecuador,44000,2018
-63,Senegal,42000,2018
-64,Portugal,41000,2018
-65,Jamaica,40000,2018
-66,Liberia,39000,2018
-67,Madagascar,39000,2018
-68,Níger,36000,2018
-69,Cuba,31000,2018
-70,Japón,30000,2018
-71,Nepal,30000,2018
-72,Australia,28000,2018
-73,Bielorrusia,27000,2018
-74,Gambia,26000,2018
-75,Panamá,26000,2018
-76,Kazajistán,26000,2018
-77,El Salvador,25000,2018
-78,Honduras,23000,2018
-79,Países Bajos,23000,2017
-80,Egipto,22000,2018
-81,Bolivia,22000,2018
-82,Marruecos,21000,2018
-83,Paraguay,21000,2018
-84,Rumania,18000,2018
-85,Eritrea,18000,2018
-86,Moldavia,17000,2018
-87,Argelia,16000,2018
-88,Costa Rica,15000,2018
-89,Bangladesh,14000,2018
-90,Grecia,14000,2017
-91,Uruguay,14000,2018
-92,Mauricio,13000,2018
-93,Tayikistán,13000,2018
-94,Laos,12000,2018
-95,Suecia,11000,2016
-96,Somalia,11000,2018
-97,Trinidad y Tobago,11000,2017
-98,Yemen,11000,2018
-99,Nicaragua,9400,2018
-100,Georgia,9400,2018
-101,Libia,9200,2018
-102,Israel,9000,2018
-103,Yibuti,8800,2018
-104,Kirguizistán,8500,2018
-105,Arabia Saudí,8200,2016
-106,Guyana,8200,2018
-107,Azerbaiyán,8000,2017
-108,Singapur,7900,2018
-109,Austria,7400,2017
-110,Estonia,7400,2018
-111,Irlanda,7200,2018
-112,Afganistán,7200,2018
-113,Dinamarca,6200,2018
-114,Bahamas,6000,2018
-115,Noruega,5800,2018
-116,Mauritania,5600,2018
-117,Surinam,5600,2018
-118,Letonia,5300,2018
-119,Belice,4900,2018
-120,República Checa,4400,2018
-121,Finlandia,4000,2018
-122,Hungría,3700,2018
-123,Nueva Zelanda,3600,2018
-124,Armenia,3500,2018
-125,Bulgaria,3500,2018
-126,Sri Lanka,3500,2018
-127,Omán,3200,2018
-128,Serbia,3000,2018
-129,Barbados,3000,2018
-130,Lituania,2800,2017
-131,Túnez,2800,2018
-132,Líbano,2500,2018
-133,Cabo Verde,2400,2018
-134,Croacia,1600,2018
-135,Albania,1400,2017
-136,Bután,1300,2018
-137,Eslovaquia,1200,2018
-138,Luxemburgo,1200,2018
-139,San Vicente y las Granadinas,1200,2018
-140,Santo Tomé y Príncipe,1100,2018
-141,Siria,1000,2018
-142,Santa Lucía,1000,2018
-143,Eslovenia,1000,2017
-144,Kuwait,1000,2018
-145,Mongolia,1000,2018
-146,Antigua y Barbuda,1000,2018
-147,Fiyi,1000,2016
-148,Dominica,500,2018
-149,Islandia,500,2018
-150,Granada,500,2018
-151,Bahráin,500,2017
-152,Bosnia y Hercegovina,500,2018
-153,Malta,500,2016
-154,Montenegro,500,2018
-155,Macedonia,500,2018
-156,Jordania,500,2018
-157,Qatar,500,2017
-158,San Cristóbal y Nieves,200,2018
-159,Comoras,200,2018
+,Country,"Death rate (deaths/1,000 population)",Year
+0,Lesotho,15,2018
+1,Lithuania,15,2018
+2,Latvia,15,2018
+3,Bulgaria,15,2018
+4,Ukraine,14,2018
+5,Serbia,14,2018
+6,Russia,13,2018
+7,Belarus,13,2018
+8,Afghanistan,13,2018
+9,Central African Republic,13,2018
+10,Hungary,13,2018
+11,Somalia,13,2018
+12,Estonia,13,2018
+13,Moldova,13,2018
+14,Croatia,12,2018
+15,Romania,12,2018
+16,Zambia,12,2018
+17,Germany,12,2018
+18,Niger,12,2018
+19,Mozambique,11,2018
+20,Greece,11,2018
+21,Georgia,11,2018
+22,Swaziland,11,2018
+23,Portugal,11,2018
+24,Poland,11,2018
+25,Italy,11,2018
+26,Czech Republic,11,2018
+27,Chad,11,2018
+28,Montenegro,10,2018
+29,Sierra Leone,10,2018
+30,Monaco,10,2018
+31,Bosnia and Herzegovina,10,2018
+32,Finland,10,2018
+33,Japan,10,2018
+34,Slovakia,10,2018
+35,Slovenia,10,2018
+36,Zimbabwe,10,2018
+37,Uganda,10,2018
+38,Austria,10,2018
+39,Belgium,10,2018
+40,Macedonia,10,2018
+41,Mali,10,2018
+42,Nigeria,10,2018
+43,Armenia,10,2018
+44,Botswana,10,2018
+45,France,9,2018
+46,"Congo, Democratic Republic of the",9,2018
+47,Cameroon,9,2018
+48,United Kingdom,9,2018
+49,Uruguay,9,2018
+50,Sweden,9,2018
+51,South Africa,9,2018
+52,Denmark,9,2018
+53,"Korea, North",9,2018
+54,"Congo, Republic of the",9,2018
+55,Spain,9,2018
+56,Angola,9,2018
+57,Netherlands,9,2018
+58,Guinea,9,2018
+59,Cuba,9,2018
+60,Trinidad and Tobago,9,2018
+61,Puerto Rico,9,2018
+62,San Marino,9,2018
+63,Greenland,9,2018
+64,Canada,9,2018
+65,Burkina Faso,9,2018
+66,Burundi,9,2018
+67,Barbados,9,2018
+68,Guinea-Bissau,9,2018
+69,Switzerland,8,2018
+70,Tuvalu,8,2018
+71,Cote d'Ivoire,8,2018
+72,Kazakhstan,8,2018
+73,Grenada,8,2018
+74,United States,8,2018
+75,Palau,8,2018
+76,Thailand,8,2018
+77,China,8,2018
+78,Norway,8,2018
+79,Malta,8,2018
+80,Dominica,8,2018
+81,Senegal,8,2018
+82,Western Sahara,8,2018
+83,Saint Lucia,8,2018
+84,Mauritania,8,2018
+85,Malawi,8,2018
+86,Benin,8,2018
+87,Namibia,8,2018
+88,Taiwan,8,2018
+89,Equatorial Guinea,8,2018
+90,New Zealand,8,2018
+91,Liechtenstein,8,2018
+92,Jamaica,8,2018
+93,Hong Kong,8,2018
+94,Haiti,8,2018
+95,Ethiopia,8,2018
+96,Djibouti,8,2018
+97,Argentina,8,2018
+98,Tanzania,8,2018
+99,Saint Vincent and the Grenadines,7,2018
+100,Andorra,7,2018
+101,Cambodia,7,2018
+102,Guyana,7,2018
+103,Liberia,7,2018
+104,Luxembourg,7,2018
+105,Laos,7,2018
+106,India,7,2018
+107,Burma,7,2018
+108,Australia,7,2018
+109,"Bahamas, The",7,2018
+110,Saint Kitts and Nevis,7,2018
+111,Comoros,7,2018
+112,Eritrea,7,2018
+113,Mauritius,7,2018
+114,Kiribati,7,2018
+115,Azerbaijan,7,2018
+116,Seychelles,7,2018
+117,Albania,7,2018
+118,"Gambia, The",7,2018
+119,Ghana,7,2018
+120,Togo,7,2018
+121,Sao Tome and Principe,7,2018
+122,Sudan,7,2018
+123,Brazil,7,2018
+124,Kenya,7,2018
+125,Papua New Guinea,7,2018
+126,Ireland,7,2018
+127,Iceland,7,2018
+128,Indonesia,7,2018
+129,Kyrgyzstan,6,2018
+130,Madagascar,6,2018
+131,Dominican Republic,6,2018
+132,Bhutan,6,2018
+133,Tunisia,6,2018
+134,Pakistan,6,2018
+135,Rwanda,6,2018
+136,Bolivia,6,2018
+137,Sri Lanka,6,2018
+138,Chile,6,2018
+139,"Korea, South",6,2018
+140,Mongolia,6,2018
+141,Fiji,6,2018
+142,Gabon,6,2018
+143,Peru,6,2018
+144,Suriname,6,2018
+145,Philippines,6,2018
+146,Turkmenistan,6,2018
+147,Turkey,6,2018
+148,Cape Verde,6,2018
+149,Cayman Islands,6,2018
+150,Nauru,6,2018
+151,Vietnam,6,2018
+152,Yemen,6,2018
+153,Tajikistan,6,2018
+154,East Timor,6,2018
+155,El Salvador,6,2018
+156,Antigua and Barbuda,6,2018
+157,New Caledonia,6,2018
+158,Nepal,6,2018
+159,Colombia,6,2018
+160,Bangladesh,5,2018
+161,Mexico,5,2018
+162,Samoa,5,2018
+163,Uzbekistan,5,2018
+164,Venezuela,5,2018
+165,Iran,5,2018
+166,Honduras,5,2018
+167,Israel,5,2018
+168,Malaysia,5,2018
+169,Nicaragua,5,2018
+170,Lebanon,5,2018
+171,Ecuador,5,2018
+172,Guatemala,5,2018
+173,Panama,5,2018
+174,Morocco,5,2018
+175,Falkland Islands (Islas Malvinas),5,2012
+176,Tonga,5,2018
+177,Costa Rica,5,2018
+178,Paraguay,5,2018
+179,Macau,5,2018
+180,Egypt,5,2018
+181,Algeria,4,2018
+182,Belize,4,2018
+183,Vanuatu,4,2018
+184,Syria,4,2018
+185,Iraq,4,2018
+186,Solomon Islands,4,2018
+187,Brunei,4,2018
+188,Libya,4,2018
+189,Singapore,4,2018
+190,Jordan,3,2018
+191,Oman,3,2018
+192,Saudi Arabia,3,2018
+193,Bahrain,3,2018
+194,Kuwait,2,2018
+195,United Arab Emirates,2,2018
+196,Qatar,2,2018
