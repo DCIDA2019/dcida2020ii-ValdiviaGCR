@@ -1,0 +1,198 @@
+,Country,"Death rate (deaths/1,000 population)",Year
+0,Lesotho,15,2018
+1,Lithuania,15,2018
+2,Latvia,15,2018
+3,Bulgaria,15,2018
+4,Ukraine,14,2018
+5,Serbia,14,2018
+6,Russia,13,2018
+7,Belarus,13,2018
+8,Afghanistan,13,2018
+9,Central African Republic,13,2018
+10,Hungary,13,2018
+11,Somalia,13,2018
+12,Estonia,13,2018
+13,Moldova,13,2018
+14,Croatia,12,2018
+15,Romania,12,2018
+16,Zambia,12,2018
+17,Germany,12,2018
+18,Niger,12,2018
+19,Mozambique,11,2018
+20,Greece,11,2018
+21,Georgia,11,2018
+22,Swaziland,11,2018
+23,Portugal,11,2018
+24,Poland,11,2018
+25,Italy,11,2018
+26,Czech Republic,11,2018
+27,Chad,11,2018
+28,Montenegro,10,2018
+29,Sierra Leone,10,2018
+30,Monaco,10,2018
+31,Bosnia and Herzegovina,10,2018
+32,Finland,10,2018
+33,Japan,10,2018
+34,Slovakia,10,2018
+35,Slovenia,10,2018
+36,Zimbabwe,10,2018
+37,Uganda,10,2018
+38,Austria,10,2018
+39,Belgium,10,2018
+40,Macedonia,10,2018
+41,Mali,10,2018
+42,Nigeria,10,2018
+43,Armenia,10,2018
+44,Botswana,10,2018
+45,France,9,2018
+46,"Congo, Democratic Republic of the",9,2018
+47,Cameroon,9,2018
+48,United Kingdom,9,2018
+49,Uruguay,9,2018
+50,Sweden,9,2018
+51,South Africa,9,2018
+52,Denmark,9,2018
+53,"Korea, North",9,2018
+54,"Congo, Republic of the",9,2018
+55,Spain,9,2018
+56,Angola,9,2018
+57,Netherlands,9,2018
+58,Guinea,9,2018
+59,Cuba,9,2018
+60,Trinidad and Tobago,9,2018
+61,Puerto Rico,9,2018
+62,San Marino,9,2018
+63,Greenland,9,2018
+64,Canada,9,2018
+65,Burkina Faso,9,2018
+66,Burundi,9,2018
+67,Barbados,9,2018
+68,Guinea-Bissau,9,2018
+69,Switzerland,8,2018
+70,Tuvalu,8,2018
+71,Cote d'Ivoire,8,2018
+72,Kazakhstan,8,2018
+73,Grenada,8,2018
+74,United States,8,2018
+75,Palau,8,2018
+76,Thailand,8,2018
+77,China,8,2018
+78,Norway,8,2018
+79,Malta,8,2018
+80,Dominica,8,2018
+81,Senegal,8,2018
+82,Western Sahara,8,2018
+83,Saint Lucia,8,2018
+84,Mauritania,8,2018
+85,Malawi,8,2018
+86,Benin,8,2018
+87,Namibia,8,2018
+88,Taiwan,8,2018
+89,Equatorial Guinea,8,2018
+90,New Zealand,8,2018
+91,Liechtenstein,8,2018
+92,Jamaica,8,2018
+93,Hong Kong,8,2018
+94,Haiti,8,2018
+95,Ethiopia,8,2018
+96,Djibouti,8,2018
+97,Argentina,8,2018
+98,Tanzania,8,2018
+99,Saint Vincent and the Grenadines,7,2018
+100,Andorra,7,2018
+101,Cambodia,7,2018
+102,Guyana,7,2018
+103,Liberia,7,2018
+104,Luxembourg,7,2018
+105,Laos,7,2018
+106,India,7,2018
+107,Burma,7,2018
+108,Australia,7,2018
+109,"Bahamas, The",7,2018
+110,Saint Kitts and Nevis,7,2018
+111,Comoros,7,2018
+112,Eritrea,7,2018
+113,Mauritius,7,2018
+114,Kiribati,7,2018
+115,Azerbaijan,7,2018
+116,Seychelles,7,2018
+117,Albania,7,2018
+118,"Gambia, The",7,2018
+119,Ghana,7,2018
+120,Togo,7,2018
+121,Sao Tome and Principe,7,2018
+122,Sudan,7,2018
+123,Brazil,7,2018
+124,Kenya,7,2018
+125,Papua New Guinea,7,2018
+126,Ireland,7,2018
+127,Iceland,7,2018
+128,Indonesia,7,2018
+129,Kyrgyzstan,6,2018
+130,Madagascar,6,2018
+131,Dominican Republic,6,2018
+132,Bhutan,6,2018
+133,Tunisia,6,2018
+134,Pakistan,6,2018
+135,Rwanda,6,2018
+136,Bolivia,6,2018
+137,Sri Lanka,6,2018
+138,Chile,6,2018
+139,"Korea, South",6,2018
+140,Mongolia,6,2018
+141,Fiji,6,2018
+142,Gabon,6,2018
+143,Peru,6,2018
+144,Suriname,6,2018
+145,Philippines,6,2018
+146,Turkmenistan,6,2018
+147,Turkey,6,2018
+148,Cape Verde,6,2018
+149,Cayman Islands,6,2018
+150,Nauru,6,2018
+151,Vietnam,6,2018
+152,Yemen,6,2018
+153,Tajikistan,6,2018
+154,East Timor,6,2018
+155,El Salvador,6,2018
+156,Antigua and Barbuda,6,2018
+157,New Caledonia,6,2018
+158,Nepal,6,2018
+159,Colombia,6,2018
+160,Bangladesh,5,2018
+161,Mexico,5,2018
+162,Samoa,5,2018
+163,Uzbekistan,5,2018
+164,Venezuela,5,2018
+165,Iran,5,2018
+166,Honduras,5,2018
+167,Israel,5,2018
+168,Malaysia,5,2018
+169,Nicaragua,5,2018
+170,Lebanon,5,2018
+171,Ecuador,5,2018
+172,Guatemala,5,2018
+173,Panama,5,2018
+174,Morocco,5,2018
+175,Falkland Islands (Islas Malvinas),5,2012
+176,Tonga,5,2018
+177,Costa Rica,5,2018
+178,Paraguay,5,2018
+179,Macau,5,2018
+180,Egypt,5,2018
+181,Algeria,4,2018
+182,Belize,4,2018
+183,Vanuatu,4,2018
+184,Syria,4,2018
+185,Iraq,4,2018
+186,Solomon Islands,4,2018
+187,Brunei,4,2018
+188,Libya,4,2018
+189,Singapore,4,2018
+190,Jordan,3,2018
+191,Oman,3,2018
+192,Saudi Arabia,3,2018
+193,Bahrain,3,2018
+194,Kuwait,2,2018
+195,United Arab Emirates,2,2018
+196,Qatar,2,2018
